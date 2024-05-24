@@ -58,38 +58,6 @@ if  (msg === prefix + 'USERINFO'){
 
 }
 
-if (msg === prefix + 'PORNOPAUNESCU' || msg === prefix + 'PORNOANDREI' ) {
-
-  message.channel.send( { file : 'https://www.playboy.si/media/cache/upload/Photo/2015/08/24/07_i920.jpg' } )
-}
-
-
-if (msg === prefix + 'PORNOVRAJITORU' || msg === prefix + 'PORNORARES'  ) {
-
-  message.channel.send( { file :'https://i.imgur.com/B9xsfou.jpg' } )
-}
-
-
-if (msg === prefix + 'PORNOVLAD' || msg === prefix + 'PORNOBIRSASTEANU' ) {
-
-  message.channel.send( {file : 'https://www.kristenbjorn.com/files/movies/108/freegallery/large/1288557043014.jpg' } )
-}
- else {
-
-   message.channel.send('Nu esti autorizat sa folosesti aceasta comanda!')
- }
-
-
-
-if (msg === prefix + 'PLAYMARIO' || msg === prefix + 'PLAYYOLO'  ) {
-
-  message.channel.send('https://www.youtube.com/watch?v=y3gKLYVULzU')
-}
-
-if (msg === prefix + 'PORNORADUCU' || msg === prefix + 'PORNOSTOICHIN'  ) {
-
-  message.channel.send({ file : 'http://thefappening.so/wp-content/uploads/2016/09/Amanda-Cerny-Nude-36-683x1024.jpg'})
-}
 
 });
 
